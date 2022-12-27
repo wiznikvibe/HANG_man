@@ -1,1 +1,1 @@
-# HANG_man
+# HANGMAN (BASIC PROJECT)
